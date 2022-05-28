@@ -20,5 +20,4 @@ function convert(e) {
     lengthEl.innerText = value + " meters = " + feet + " feet | " + value +" feet = " + meter + " meters";
     volumeEl.innerText = value + " liters = " + gallons + "gallons | " +value +" gallons = " + liters +" liters";
     weightEl.innerText = value + " kilos = " + pound + " pounds | " +value +" pounds = " + kg +" kilos";
-
 }
