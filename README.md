@@ -14,7 +14,7 @@ Quick conversion in kilos, pounds, liters, gallons, meters and feet.
 ## Aknowledgments
 Scrimba Solo Project Challange.
 
-Please make sure to update tests as appropriate.
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
